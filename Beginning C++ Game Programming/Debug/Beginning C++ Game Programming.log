@@ -1,0 +1,3 @@
+﻿  Beginning C++ Game Programming.cpp
+F:\Coding\CPP\Beginning C++ Game Programming\Beginning C++ Game Programming\Beginning C++ Game Programming.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Beginning C++ Game Programming.vcxproj -> F:\Coding\CPP\Beginning C++ Game Programming\Debug\Beginning C++ Game Programming.exe
